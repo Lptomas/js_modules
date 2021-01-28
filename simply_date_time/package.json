@@ -1,0 +1,16 @@
+{
+  "name": "simply_date_time",
+  "version": "1.0.5",
+  "main": "simply_date_time.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "date",
+    "time",
+    "timestanp"
+  ],
+  "author": "lpt",
+  "license": "ISC",
+  "description": "return object with individual value of :  'dt' : complete,  'year' : year,  'month' : month,  'ay' : day,  'h' : hours, 'm' : minutes, 's' : seconds "
+}

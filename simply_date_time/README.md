@@ -1,4 +1,4 @@
-# nodejs Modlule :  simply_date_time
+# nodejs Module :  simply_date_time
 
 Super basic and simply way to get some object with separated date and time values.
 

@@ -1,6 +1,6 @@
 {
   "name": "simply_date_time",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "main": "simply_date_time.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

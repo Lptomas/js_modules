@@ -1,7 +1,7 @@
 /**
 Based on:       https://usefulangle.com/post/187/nodejs-get-date-time
- 
- 2021-01-27
+
+ 2021-02-05
 
 */
 
@@ -25,6 +25,6 @@ module.exports.simply_date_time = function (){
                         "h" : hours,
                         "m" : minutes,
                         "s" : seconds,
-                        "tt" : ts
+                        "ts" : ts
                     };
 };

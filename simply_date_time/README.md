@@ -9,25 +9,22 @@ This is based on https://usefulangle.com/post/187/nodejs-get-date-time  - give h
 
 How to Use:
 
-
+### Installation
+```
+npm i simply_date_time
+```
 
 howto.js 
-
+```
 const dt = require('simply_date_time');
-
 const time = dt.simply_date_time();
-
-
 const path_date = time.year +"-"+ time.month + "-" + time.day;
-
 const path_time= time.h +"-"+ time.m + "-" + time.s;
 
 console.log(path_date);
-
 console.log(path_time);
-
 console.log(time.ts);
-
+```
 
 Output:
 
